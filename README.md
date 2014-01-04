@@ -1,1 +1,1 @@
-Test
+In this repository, I store the maven repos for all of my github projects that require one. I'm aware that it's ideal to use Nexus for this, but I didn't want to go through the hassle, being as though pretty much nobody actually uses my maven repos.
