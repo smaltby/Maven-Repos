@@ -76,6 +76,7 @@
           <repositoryName>Maven-Repos</repositoryName>
           <repositoryOwner>smaltby</repositoryOwner>
           <merge>true</merge>
+          <force>true</force>
         </configuration>
       </plugin>
     </plugins>
